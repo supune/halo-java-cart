@@ -14,7 +14,7 @@ Note: We expect installation to take 15-30 minutes to setup. If for any reason i
 
 ## Running Tests
 
-After installation, go to the java-cart directory and make sure the tests are wrking:
+After installation, go to the halo-java-cart directory and make sure the tests are wrking:
 
 ```bash
 $ mvn test
